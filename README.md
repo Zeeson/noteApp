@@ -1,2 +1,4 @@
-# noteApp
-This is note app written with Node File system module for Wejapa 2020 internship program as an Intern
+# wejapa_week3-notepad-
+# By: Ibrahim Saliman
+
+This is a noteApp built with node 
